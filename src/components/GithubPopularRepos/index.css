@@ -1,0 +1,26 @@
+.app-main-container {
+  background-color: #ffffff;
+  background-size: 100vh;
+}
+
+.main-heading {
+  font-family: 'Lobster';
+  font-size: 40px;
+  color: #0f172a;
+  font-weight: bold;
+  text-align: center;
+}
+
+.laguage-filter-container {
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+}
+
+.list-of-languages {
+  width: 100%;
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
